@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: longitud
+  inspection: HasDirectRecursion
+- binding: longitud
+  inspection: Not:HasUsage:length

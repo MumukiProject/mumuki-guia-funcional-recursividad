@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: sumatoria
+  inspection: Not:HasUsage:sum

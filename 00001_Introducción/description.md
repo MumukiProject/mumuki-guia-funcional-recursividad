@@ -15,7 +15,7 @@ Y asi podríamos seguir, toda la vida.
 ¿Y cómo se escribe esto en Haskell? Así: 
 
 ```haskell
-cuentoDeLaBuenaPipa = "querés conocer el cuento de la buena pipa?" ++ cuentoDeLaBuenaPipa
+cuentoDeLaBuenaPipa = "querés conocer el cuento de la buena pipa? (Sí!) " ++ cuentoDeLaBuenaPipa
 ```
 
 > ¿Que pasará si probamos ésto en la consola?

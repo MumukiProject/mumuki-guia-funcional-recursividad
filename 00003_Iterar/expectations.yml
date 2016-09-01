@@ -4,5 +4,3 @@ expectations:
   inspection: Not:HasUsage:iterate
 - binding: iterar
   inspection: HasDirectRecursion
-- binding: ''
-  inspection: ''

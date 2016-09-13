@@ -1,1 +1,1 @@
-sumatoria lista = head lista + sumatoria (tail lista)
+sumatoria lista = sumatoria (tail lista) + head lista

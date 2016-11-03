@@ -1,8 +1,6 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: iterar
+- binding: iterar
   inspection: Not:HasUsage:iterate
-- !ruby/hash:BSON::Document
-  binding: iterar
+- binding: iterar
   inspection: HasDirectRecursion

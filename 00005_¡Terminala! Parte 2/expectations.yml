@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: sumatoria
+- !ruby/hash:BSON::Document
+  binding: sumatoria
   inspection: Not:HasUsage:sum

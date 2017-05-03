@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: infinitosUnos
+- !ruby/hash:BSON::Document
+  binding: infinitosUnos
   inspection: HasDirectRecursion

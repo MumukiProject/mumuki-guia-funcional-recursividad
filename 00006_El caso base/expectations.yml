@@ -1,8 +1,6 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: longitud
+- binding: longitud
   inspection: HasDirectRecursion
-- !ruby/hash:BSON::Document
-  binding: longitud
+- binding: longitud
   inspection: Not:HasUsage:length

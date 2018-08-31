@@ -1,6 +1,6 @@
 ¿Querés saber que es la recursividad? 
 
-Bueno podríamos explicartelo, pero antes, tenés que preguntarte: ¿querés saber qué es la recursividad?
+Bueno podríamos explicartelo, pero antes, tenés que preguntarte: ¿querés saber qué es la recursividad? 
 
 
 Bueno podríamos explicartelo, pero antes, tenés que preguntarte: ¿querés saber qué es la recursividad?

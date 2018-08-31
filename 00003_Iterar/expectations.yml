@@ -1,6 +1,0 @@
----
-expectations:
-- binding: iterar
-  inspection: Not:HasUsage:iterate
-- binding: iterar
-  inspection: HasDirectRecursion
